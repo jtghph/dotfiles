@@ -3,4 +3,4 @@ What's uploaded (in the process)
 - Lindows 11
 
 What's not getting uploaded
-- XFCE Touch (Portrait)
+- XFCE Touch (Portrait-Wayland)
