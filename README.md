@@ -1,2 +1,2 @@
 # unixporn-rices
-Repo for my Linux rices
+the long awaited dotfiles.
