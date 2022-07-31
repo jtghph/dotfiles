@@ -12,7 +12,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   <h1>r/unixporn: Linux desktop setup dotfiles</h1>
   
   <p>
-    (WIP) Github repository, containing dotfiles of posted Linux desktop rices by c4sc#0001 on r/unixporn Discord server.
+    (WIP) Github repository, containing dotfiles of posted Linux desktop rices by on r/unixporn Discord server.
   </p>
   
   
@@ -27,7 +27,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   <a href="https://github.com/c4scdev/dotfiles/stargazers">
     <img src="https://img.shields.io/github/stars/c4scdev/dotfiles" alt="stars" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE">
+  <a href="https://github.com/c4scdev/dotfiles/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
   </a>
 </p>
