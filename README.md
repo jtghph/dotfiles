@@ -101,13 +101,19 @@ Start the server
 <!-- FAQ -->
 ## :grey_question: FAQ
 
-- Question 1
+- Isn't there two GLONE posts?
 
-  + Answer 1
+  + ...Yeah i know. GLONE and GLONE2 has been mixed up, to result in a better mockery. Plank included, but exclude the appgrid.
+This also goes for MockOS*
 
-- Question 2
 
-  + Answer 2
+- Where's that attempt of making Xfce looking like KDE?
+
+  + it sucks. Sometimes when i stare back at it again i just wanna destroy my eyes looking at how terrible it is.
+
+- Xunnity and LXWin?
+
+  + Mixed.
 
 
 <!-- License -->
