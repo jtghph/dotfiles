@@ -12,7 +12,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   <h1>r/unixporn: Linux desktop setup dotfiles</h1>
   
   <p>
-    Github repository, containing dotfiles of all posted Linux desktop rices by c4sc#0001 on r/unixporn Discord server.
+    Github repository, containing dotfiles of posted Linux desktop rices by c4sc#0001 on r/unixporn Discord server.
   </p>
   
   
