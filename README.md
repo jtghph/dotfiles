@@ -35,7 +35,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 
 <!-- Screenshots -->
-### :camera: Screenshots
+### :camera: Screenshot
 
 <div align="center"> 
   <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
@@ -80,17 +80,13 @@ Go to the project directory
   cd dotfiles
 ```
 
-Install dependencies
+Go to the setup directory 
 
 ```bash
-  yarn install
+  cd (tab), then continue to your liked setup destination.
 ```
-
-Start the server
-
-```bash
-  yarn start
-```
+You should already know where to put files/folders like `.icons` and `.themes`.<br />
+I provided a wallpaper. Set the wallpaper up yourself.
 
 <!-- Roadmap -->
 ## :compass: Roadmap
@@ -113,7 +109,7 @@ This also goes for MockOS*
 
 - Xnity and LXWin?
 
-  + Mixed. LXWin uses xfce4-panel and plank.
+  + Mixed, since LXWin uses xfce4-panel and plank.
 
 
 <!-- License -->
