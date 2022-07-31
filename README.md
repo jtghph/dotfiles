@@ -8,7 +8,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 -->
 <div align="center">
 
-  <img src="assets/logo.png" alt="logo" width="200" height="auto" />
+  <img src="https://raw.githubusercontent.com/c4scdev/dotfiles/main/UpAi4Y5__400x400.jpg" alt="logo" width="200" height="200" />
   <h1>Awesome Readme Template</h1>
   
   <p>
