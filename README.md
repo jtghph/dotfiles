@@ -18,17 +18,11 @@ Maybe you can mention me or this repo in the acknowledgements too
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
-  </a>
   <a href="">
     <img src="https://img.shields.io/github/last-commit/c4scdev/dotfiles" alt="last update" />
   </a>
   <a href="https://github.com/c4scdev/dotfiles/stargazers">
     <img src="https://img.shields.io/github/stars/c4scdev/dotfiles" alt="stars" />
-  </a>
-  <a href="https://github.com/c4scdev/dotfiles/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
   </a>
 </p>
    
