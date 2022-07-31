@@ -111,9 +111,9 @@ This also goes for MockOS*
 
   + it sucks. Sometimes when i stare back at it again i just wanna destroy my eyes looking at how terrible it is.
 
-- Xunnity and LXWin?
+- Xnity and LXWin?
 
-  + Mixed.
+  + Mixed. LXWin uses xfce4-panel and plank.
 
 
 <!-- License -->
