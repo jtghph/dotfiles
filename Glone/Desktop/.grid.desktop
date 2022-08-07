@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Applications
+Comment=
+Exec=xfce4-popup-whiskermenu
+Icon=/home/c4sc/Public/Archive Files/Others/LinuxScoop Files/start_menu_icons/hexa-grid.svg
+Path=
+Terminal=false
+StartupNotify=false

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Bill-Theme
+Comment=Fluent design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Bill-Theme
+MetacityTheme=Bill-Theme
+ButtonLayout=close,minimize,maximize:menu
