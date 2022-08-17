@@ -6,6 +6,7 @@ or just open an issue with the label "enhancement".
 Don't forget to give this project a star for additional support ;)
 Maybe you can mention me or this repo in the acknowledgements too
 -->
+<p>Temporarily archiving it lol, i lost interest at Linux<p>
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/c4scdev/dotfiles/main/UpAi4Y5__400x400.jpg" alt="logo" width="200" height="200" />
